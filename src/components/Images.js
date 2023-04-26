@@ -6,6 +6,6 @@ const Images = () => {
             <img src="/picture2.jpg" />
             <img src= {Picture1} />
         </div>
-    )
-} 
+    );
+}
 export default Images;
